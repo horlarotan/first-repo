@@ -1,3 +1,3 @@
 Practical
 
-preparations for class,
+preparations for class.
